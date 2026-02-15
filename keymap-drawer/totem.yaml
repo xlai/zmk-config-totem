@@ -1,11 +1,11 @@
-layout: {qmk_keyboard: totem}
+layout: {zmk_keyboard: totem}
 layers:
   BASE:
   - W
   - L
   - Y
   - P
-  - K
+  - B
   - Z
   - F
   - O
@@ -15,8 +15,8 @@ layers:
   - R
   - S
   - T
-  - B
-  - X
+  - G
+  - M
   - N
   - E
   - I
@@ -26,8 +26,8 @@ layers:
   - J
   - V
   - D
-  - G
-  - M
+  - K
+  - X
   - H
   - {t: /, s: '?'}
   - {t: ',', s: <}
