@@ -85,9 +85,9 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-                      &kp W  &kp L  &kp Y                &kp P            &kp K                   &kp Z      &kp F          &kp O      &kp U      &kp SEMI
-                      &kp C  &kp R  &kp S                &kp T            &kp B                   &kp X      &kp N          &kp E      &kp I      &kp A
-&mt LEFT_CONTROL TAB  &kp Q  &kp J  &kp V                &kp D            &kp G                   &kp M      &kp H          &kp SLASH  &kp COMMA  &kp PERIOD  &kp RET
+                      &kp W  &kp L  &kp Y                &kp P            &kp B                   &kp Z      &kp F          &kp O      &kp U      &kp SEMI
+                      &kp C  &kp R  &kp S                &kp T            &kp G                   &kp M      &kp N          &kp E      &kp I      &kp A
+&mt LEFT_CONTROL TAB  &kp Q  &kp J  &kp V                &kp D            &kp K                   &kp X      &kp H          &kp SLASH  &kp COMMA  &kp PERIOD  &kp RET
                                     &mt LEFT_GUI DELETE  &lt NAV AT_SIGN  &mt LEFT_SHIFT SPACE    &kp SPACE  &lt SYM MINUS  &kp BSPC
             >;
         };
